@@ -41,7 +41,7 @@ class CanPlaceFlowers {
 			System.out.println("Input flowerbed: " + Arrays.toString(bed) + ", n=" + n);
 			System.out.println("(placeholder) canPlaceFlowers: " + sol.canPlaceFlowers(bed, n));
 		} catch (NumberFormatException e) {
-			System.err.println("Invalid arguments. Provide integers only.");
+			System.err.println("Invalid argumhhhhents. Provide integers only.");
 		}
 	}
 }

@@ -15,9 +15,9 @@ import java.util.Arrays;
 
 class CanPlaceFlowers {
 
-	// Placeholder implementation. Replace with greedy planting logic.
+	
 	public boolean canPlaceFlowers(int[] flowerbed, int n) {
-		// TODO: implement greedy algorithm to place n flowers
+		
 		return false;
 	}
 

@@ -30,7 +30,7 @@ class FindTheIndexOfFirst {
             shift[i] = m;
         }
 
-        // 2) Needle'ın son karakteri hariç shift değerlerini hesapla
+        // 2) Needle'ın son karakteri hariç shift değerlerini hesapla.
         for (int i = 0; i < m - 1; i++) {
             shift[needle.charAt(i)] = m - 1 - i;
         }

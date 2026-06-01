@@ -1,4 +1,4 @@
-// Problem 55: Jump Game
+// Problem 55: Jump Game I
 // Difficulty: Medium
 // Pattern: Greedy
 

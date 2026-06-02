@@ -3,7 +3,7 @@
 // Pattern: Greedy
 
 // Time Complexity: O(n)
-// Space Complexity: O(1)
+// Space Complexityu: O(1)
 
 // Explanation:
 // Track the farthest index reachable while iterating. If the current index

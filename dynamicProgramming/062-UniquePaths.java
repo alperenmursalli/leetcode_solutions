@@ -6,7 +6,7 @@
 // Space Complexity: O(m * n)
 //
 // Explanation:
-// The robot can only move right or down.
+// The robot can only move  right or down.
 // To reach any cell, it can come from the cell above or the cell on the left.
 // So paths[i][j] = paths[i - 1][j] + paths[i][j - 1].
 //

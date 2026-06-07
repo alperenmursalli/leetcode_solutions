@@ -11,7 +11,7 @@
 // So paths[i][j] = paths[i - 1][j] + paths[i][j - 1].
 //
 // Key Insight:
-// The first row and first  column have only one possible path because the robot can move in only one direction.
+// The first row and first  column have  only one possible path because the robot can move in only one direction.
 
 package dynamicProgramming;
 

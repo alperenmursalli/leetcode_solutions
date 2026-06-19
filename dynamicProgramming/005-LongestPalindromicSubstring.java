@@ -7,7 +7,7 @@
 //
 // Explanation:
 // Use a DP table where dp[i][j] tells whether s.substring(i, j + 1) is a palindrome.
-// A substring is a pali  ndrome if its first and last characters match and the inside substring is also a palindrome.
+// A substring is a pali  ndrome if i ts first and last characters match and the inside substring is also a palindrome.
 // dp[i][j] = s.charAt(i) ==  s.charAt(j) && (j - i < 3 || dp[i + 1][j - 1])
 //
 // Key Insight:

@@ -11,7 +11,7 @@
 // dp[i][j] = s.charAt(i) ==  s.charAt(j) && (j - i < 3 || dp[i + 1][j - 1])
 //
 // Key Insight:
-// Short subst rings are the base cases, and longer substrings depend on the result of their inner substring.
+// Short subst rings are the base cases,and longer substrings depend on the result of their inner substring.
 
 package dynamicProgramming;
 

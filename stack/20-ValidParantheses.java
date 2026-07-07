@@ -1,7 +1,7 @@
 // Problem 20: Valid Parentheses
 // Difficulty: Easy
 // Pattern: Stack
-//
+
 // Time Complexity: O(n)
 // Space Complexity: O(n)
 //
